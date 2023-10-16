@@ -1,0 +1,22 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "namaste react",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekharpulavarthi/namaste-react.git"
+  },
+  "author": "Sekhar Pulavarthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sekharpulavarthi/namaste-react/issues"
+  },
+  "homepage": "https://github.com/sekharpulavarthi/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
