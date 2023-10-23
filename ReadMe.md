@@ -1,0 +1,1 @@
+.favRestaurantInfoCard.restaurants
