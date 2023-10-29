@@ -2,11 +2,14 @@ import { CDN_URL } from "../utils/constants";
 
 const RestaurantCard = (props) => {
   const { resData } = props;
-
+  console.log(resData);
   const { cloudinaryImageId, name, cuisines, avgRating } = resData.info;
 
   return (
-    <div className="m-4 h-72 p-4 w-[250px] border border-solid border-black rounded-lg">
+    <div
+      data-testid="resCard"
+      className="m-4 h-72 p-4 w-[250px] border border-solid border-black rounded-lg"
+    >
       <img
         className="res-logo rounded-lg cursor-pointer"
         src={CDN_URL + cloudinaryImageId}
@@ -22,9 +25,7 @@ const RestaurantCard = (props) => {
 export const withPromotedLabel = (RestaurantCard) => {
   return (props) => (
     <div>
-      <label className="absolute p-2 bg-black rounded-lg text-white">
-        Promoted
-      </label>
+      <p className="absolute p-2 bg-black rounded-lg text-white">Promoted</p>
       <RestaurantCard {...props} />
     </div>
   );

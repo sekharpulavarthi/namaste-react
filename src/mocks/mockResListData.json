@@ -1,0 +1,2421 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "pageOffset": {
+      "nextOffset": "CKJQEOMTKICAuLbAsbOLWjCJFjgE",
+      "widgetOffset": {
+        "collectionV5RestaurantListWidget": "3",
+        "inlineFacetFilter": "",
+        "restaurantCountWidget_Worldcup2": "",
+        "Worldcup2_Flexipage_Themes_StackedWidget": ""
+      }
+    },
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.StackedWidget",
+            "header": {
+              "title": "Festive delights & offers",
+              "headerStyling": {
+                "padding": {
+                  "left": 16,
+                  "top": 20,
+                  "right": 16
+                }
+              }
+            },
+            "tabs": [
+              {
+                "id": "tab_af1",
+                "title": "Sweets & namkeens",
+                "selectedBgColor": "#1B1E24",
+                "unselectedBgColor": "#FFFFFF",
+                "selectedTextColor": "#FFFFFF",
+                "unselectedTextColor": "#9902060C",
+                "selectedBorderColor": "#1B1E24",
+                "unselectedBorderColor": "#E2E2E7"
+              },
+              {
+                "id": "tab_ae1",
+                "title": "Indian dishes: upto 60% OFF",
+                "selectedBgColor": "#1B1E24",
+                "unselectedBgColor": "#FFFFFF",
+                "selectedTextColor": "#FFFFFF",
+                "unselectedTextColor": "#9902060C",
+                "selectedBorderColor": "#1B1E24",
+                "unselectedBorderColor": "#E2E2E7"
+              },
+              {
+                "id": "tab_f35",
+                "title": "Unlimited Discounts",
+                "selectedBgColor": "#1B1E24",
+                "unselectedBgColor": "#FFFFFF",
+                "selectedTextColor": "#FFFFFF",
+                "unselectedTextColor": "#9902060C",
+                "selectedBorderColor": "#1B1E24",
+                "unselectedBorderColor": "#E2E2E7"
+              }
+            ],
+            "widgetTheme": {
+              "defaultMode": {
+                "backgroundColour": "#FFFFFF",
+                "theme": "THEME_TYPE_LIGHT"
+              },
+              "darkMode": {}
+            },
+            "widgetSeparatorConfig": {},
+            "id": "Worldcup2_Flexipage_Themes_StackedWidget",
+            "info": [
+              {
+                "tabId": "tab_af1",
+                "layout": {
+                  "rows": 2,
+                  "columns": 3,
+                  "itemSpacing": 12,
+                  "lineSpacing": 16,
+                  "widgetPadding": {},
+                  "containerStyle": {
+                    "containerPadding": {
+                      "left": 16,
+                      "right": 16,
+                      "bottom": 16
+                    }
+                  },
+                  "scrollBar": {}
+                },
+                "stackedDetails": {
+                  "favRestaurantInfoCard": {
+                    "restaurants": [
+                      {
+                        "info": {
+                          "id": "29291",
+                          "name": "Kesariya's Sweets and Chaat ",
+                          "cloudinaryImageId": "mmcrsnbblfeo27k0pg4r",
+                          "locality": "Gachibowli Miyapur Rd",
+                          "areaName": "Shilpa Hills",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "Sweets",
+                            "North Indian",
+                            "Biryani",
+                            "Desserts",
+                            "Chaat"
+                          ],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "29291",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 11600
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 11600
+                          },
+                          "parentId": "18978",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "10K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8634971~p=2~eid=0000018b-7c3a-fda7-2989-e999005a0258~srvts=1698596322727~97186",
+                          "sla": {
+                            "deliveryTime": 36,
+                            "lastMileTravel": 10.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "36 mins",
+                            "lastMileTravelString": "10.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {},
+                              "textBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Kesariya's Sweets and Chaat , serving Sweets, North Indian, Biryani and more, will be delivered in 36 min, costs ₹200 for two, 10% off above ₹600 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "10% OFF",
+                            "subHeader": "ABOVE ₹600",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=29291",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "345817",
+                          "name": "Delhi sweet house",
+                          "cloudinaryImageId": "lxkvpq9ihpmqfnoavqu5",
+                          "locality": "TNGOS colony",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹150 for two",
+                          "cuisines": [
+                            "Chinese",
+                            "Sweets",
+                            "Beverages",
+                            "Chaat"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "345817",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 4500
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 4500
+                          },
+                          "parentId": "70161",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 33,
+                            "lastMileTravel": 3.5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "33 mins",
+                            "lastMileTravelString": "3.5 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {},
+                          "isOpen": true,
+                          "aggregatedDiscountInfoV2": {},
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {},
+                              "textExtendedBadges": {},
+                              "textBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Delhi sweet house, serving Chinese, Sweets, Beverages and more, will be delivered in 33 min, costs ₹150 for two",
+                            "altTextCta": "open"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=345817",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "137671",
+                          "name": "B Bicha Reddy Sweets",
+                          "cloudinaryImageId": "ik7mahpsk9gqyegtu57v",
+                          "areaName": "Kondapur",
+                          "costForTwo": "₹580 for two",
+                          "cuisines": ["Sweets"],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "137671",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 11600
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 11600
+                          },
+                          "parentId": "294292",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "1K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8634708~p=3~eid=0000018b-7c3a-fda7-2989-e99a005a0332~srvts=1698596322727~97186",
+                          "sla": {
+                            "deliveryTime": 33,
+                            "lastMileTravel": 11,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "33 mins",
+                            "lastMileTravelString": "11.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ],
+                            "textExtendedBadges": [
+                              {
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                      "description": "",
+                                      "shortDescription": "options available",
+                                      "fontColor": "#7E808C"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "B Bicha Reddy Sweets, serving Sweets, will be delivered in 33 min, costs ₹580 for two, 15% off above ₹700 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "15% OFF",
+                            "subHeader": "ABOVE ₹700",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=137671",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "293029",
+                          "name": "Sweet Basket",
+                          "cloudinaryImageId": "fvgl3zwueunwy3cneykr",
+                          "locality": "Opp Sn Gardens",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "Sweets",
+                            "Snacks",
+                            "Chaat",
+                            "Beverages",
+                            "North Indian"
+                          ],
+                          "avgRating": 4.4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "293029",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 11600
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 11600
+                          },
+                          "parentId": "199216",
+                          "avgRatingString": "4.4",
+                          "totalRatingsString": "1K+",
+                          "sla": {
+                            "deliveryTime": 35,
+                            "lastMileTravel": 10.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "35 mins",
+                            "lastMileTravelString": "10.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {},
+                          "isOpen": true,
+                          "aggregatedDiscountInfoV2": {},
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {},
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Sweet Basket, serving Sweets, Snacks, Chaat and more, will be delivered in 35 min, costs ₹200 for two",
+                            "altTextCta": "open"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=293029",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "149464",
+                          "name": "Makrand - Sweets & More",
+                          "cloudinaryImageId": "xovypiufyufdecswvb8q",
+                          "locality": "100 ft Road",
+                          "areaName": "Lingampally",
+                          "costForTwo": "₹300 for two",
+                          "cuisines": [
+                            "Sweets",
+                            "North Indian",
+                            "South Indian",
+                            "Chinese",
+                            "Pastas",
+                            "Beverages",
+                            "Chaat"
+                          ],
+                          "avgRating": 4.3,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "149464",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 7300
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 7300
+                          },
+                          "parentId": "8064",
+                          "avgRatingString": "4.3",
+                          "totalRatingsString": "5K+",
+                          "sla": {
+                            "deliveryTime": 28,
+                            "lastMileTravel": 6.2,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "28 mins",
+                            "lastMileTravelString": "6.2 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:10:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "aggregatedDiscountInfoV2": {},
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Makrand - Sweets & More, serving Sweets, North Indian, South Indian and more, will be delivered in 28 min, costs ₹300 for two",
+                            "altTextCta": "open"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=149464",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "73350",
+                          "name": "Agra Sweets Banjara",
+                          "cloudinaryImageId": "fsrdma1ns7qpmoff7i4z",
+                          "locality": "Vinayak Nagar",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": [
+                            "Sweets",
+                            "Desserts",
+                            "Chaat",
+                            "Snacks",
+                            "Beverages"
+                          ],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "73350",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 7300
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 7300
+                          },
+                          "parentId": "34",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 26,
+                            "lastMileTravel": 6.6,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "26 mins",
+                            "lastMileTravelString": "6.6 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ],
+                            "textExtendedBadges": [
+                              {
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "description": "pureveg",
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                      "description": "",
+                                      "shortDescription": "options available",
+                                      "fontColor": "#7E808C"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Agra Sweets Banjara, serving Sweets, Desserts, Chaat and more, will be delivered in 26 min, costs ₹250 for two, 30% off upto ₹75 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "30% OFF",
+                            "subHeader": "UPTO ₹75"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=73350",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      }
+                    ],
+                    "theme": "Restaurant_Group_Worldcup2_Flexipage_TopOffers_StackeComponent",
+                    "widgetType": "WIDGET_TYPE_FAVOURITES",
+                    "style": {
+                      "width": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 0.33333334,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                      },
+                      "height": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 1.166,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                      },
+                      "layoutAlignment": "LAYOUT_ALIGNMENT_LEFT"
+                    },
+                    "collectionId": "97186"
+                  }
+                },
+                "ctaDetail": {
+                  "ctaSeparatorConfig": {
+                    "top": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16
+                      }
+                    },
+                    "bottom": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16,
+                        "bottom": 16
+                      }
+                    },
+                    "left": {},
+                    "right": {}
+                  },
+                  "textCta": {
+                    "link": "swiggy://collectionV2?collection_id=97186",
+                    "text": "See More Restaurants",
+                    "type": "DEEPLINK"
+                  }
+                }
+              },
+              {
+                "tabId": "tab_ae1",
+                "layout": {
+                  "rows": 2,
+                  "columns": 3,
+                  "itemSpacing": 12,
+                  "lineSpacing": 16,
+                  "widgetPadding": {},
+                  "containerStyle": {
+                    "containerPadding": {
+                      "left": 16,
+                      "right": 16,
+                      "bottom": 16
+                    }
+                  },
+                  "scrollBar": {}
+                },
+                "stackedDetails": {
+                  "favRestaurantInfoCard": {
+                    "restaurants": [
+                      {
+                        "info": {
+                          "id": "472258",
+                          "name": "New Santosh Family Dhaba",
+                          "cloudinaryImageId": "icpj8qmocimvboipbjoa",
+                          "locality": "Nallagandla",
+                          "areaName": "Lingampally",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": ["North Indian", "Chinese"],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "472258",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 8100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 8100
+                          },
+                          "parentId": "5022",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "1K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8597405~p=1~eid=0000018b-7c3a-fe65-2955-38e600d40112~srvts=1698596322917~97190",
+                          "sla": {
+                            "deliveryTime": 31,
+                            "lastMileTravel": 7.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "31 mins",
+                            "lastMileTravelString": "7.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "New Santosh Family Dhaba, serving North Indian, Chinese, will be delivered in 31 min, costs ₹200 for two, 50% off upto ₹100 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "50% OFF",
+                            "subHeader": "UPTO ₹100"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=472258",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "1120",
+                          "name": "Sardarji's Chat and More",
+                          "cloudinaryImageId": "fgmavnjxazoqq9jf1fmh",
+                          "locality": "Gachibowli",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "North Indian",
+                            "Fast Food",
+                            "Chaat",
+                            "Punjabi"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "1120",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 7300
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 7300
+                          },
+                          "parentId": "21713",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 31,
+                            "lastMileTravel": 6.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "31 mins",
+                            "lastMileTravelString": "6.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:45:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "textExtendedBadges": [
+                              {
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {},
+                              "textExtendedBadges": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "shortDescription": "options available",
+                                      "fontColor": "#7E808C",
+                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                      "description": ""
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Sardarji's Chat and More, serving North Indian, Fast Food, Chaat and more, will be delivered in 31 min, costs ₹200 for two, 20% off upto ₹50 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "20% OFF",
+                            "subHeader": "UPTO ₹50"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=1120",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "25980",
+                          "name": "Anandam",
+                          "cloudinaryImageId": "kf8d7x5ecpak40h7j3c4",
+                          "locality": "Gachibowli",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": ["North Indian", "Rajasthani", "Jain"],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "25980",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 8100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 8100
+                          },
+                          "parentId": "2649",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "10K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8593152~p=2~eid=0000018b-7c3a-fe65-2955-38e700d40248~srvts=1698596322917~97190",
+                          "sla": {
+                            "deliveryTime": 28,
+                            "lastMileTravel": 7.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "28 mins",
+                            "lastMileTravelString": "7.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {},
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textExtendedBadges": {},
+                              "textBased": {},
+                              "imageBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Anandam, serving North Indian, Rajasthani, Jain, will be delivered in 28 min, costs ₹250 for two, 10% off upto ₹40 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "10% OFF",
+                            "subHeader": "UPTO ₹40"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=25980",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "263798",
+                          "name": "Pure Veg Meals by Lunchbox",
+                          "cloudinaryImageId": "xrfdlfyfpirtjsicu1rv",
+                          "locality": "Near Hanuman Temple",
+                          "areaName": "Nanakaramguda",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "Biryani",
+                            "North Indian",
+                            "Desserts",
+                            "Beverages"
+                          ],
+                          "avgRating": 3.9,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "263798",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 6000
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 6000
+                          },
+                          "parentId": "21938",
+                          "avgRatingString": "3.9",
+                          "totalRatingsString": "500+",
+                          "sla": {
+                            "deliveryTime": 29,
+                            "lastMileTravel": 5,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "29 mins",
+                            "lastMileTravelString": "5.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:59:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Pure Veg Meals by Lunchbox, serving Biryani, North Indian, Desserts and more, will be delivered in 29 min, costs ₹200 for two, 40% off upto ₹80 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "40% OFF",
+                            "subHeader": "UPTO ₹80"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=263798",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "42473",
+                          "name": "Punjabi Paratha Palace",
+                          "cloudinaryImageId": "qiph0m7z9wotgwlhls8m",
+                          "locality": "Police  colony road",
+                          "areaName": "Police colony road",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": ["North Indian"],
+                          "avgRating": 3.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "42473",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 10100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 10100
+                          },
+                          "parentId": "384462",
+                          "avgRatingString": "3.7",
+                          "totalRatingsString": "5K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8634642~p=3~eid=0000018b-7c3a-fe65-2955-38e800d40379~srvts=1698596322917~97190",
+                          "sla": {
+                            "deliveryTime": 39,
+                            "lastMileTravel": 10,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "39 mins",
+                            "lastMileTravelString": "10.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Punjabi Paratha Palace, serving North Indian, will be delivered in 39 min, costs ₹200 for two, ₹150 off above ₹299 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "₹150 OFF",
+                            "subHeader": "ABOVE ₹299",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=42473",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "637525",
+                          "name": "Madhuram Tiffins",
+                          "cloudinaryImageId": "d1209d60cda85758d702c7e0a60a2790",
+                          "locality": "TNGO'S colony",
+                          "areaName": "Nanakramguda",
+                          "costForTwo": "₹150 for two",
+                          "cuisines": ["South Indian"],
+                          "avgRating": 4.3,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "637525",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 4500
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 4500
+                          },
+                          "parentId": "341225",
+                          "avgRatingString": "4.3",
+                          "totalRatingsString": "500+",
+                          "sla": {
+                            "deliveryTime": 21,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "21 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Madhuram Tiffins, serving South Indian, will be delivered in 21 min, costs ₹150 for two, 40% off upto ₹80 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "40% OFF",
+                            "subHeader": "UPTO ₹80"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=637525",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      }
+                    ],
+                    "theme": "Restaurant_Group_Worldcup2_Flexipage_AllOffers_StackeComponent",
+                    "widgetType": "WIDGET_TYPE_FAVOURITES",
+                    "style": {
+                      "width": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 0.33333334,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                      },
+                      "height": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 1.166,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                      },
+                      "layoutAlignment": "LAYOUT_ALIGNMENT_LEFT"
+                    },
+                    "collectionId": "97190"
+                  }
+                },
+                "ctaDetail": {
+                  "ctaSeparatorConfig": {
+                    "top": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16
+                      }
+                    },
+                    "bottom": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16,
+                        "bottom": 16
+                      }
+                    },
+                    "left": {},
+                    "right": {}
+                  },
+                  "textCta": {
+                    "link": "swiggy://collectionV2?collection_id=97190",
+                    "text": "See More Restaurants",
+                    "type": "DEEPLINK"
+                  }
+                }
+              },
+              {
+                "tabId": "tab_f35",
+                "layout": {
+                  "rows": 2,
+                  "columns": 3,
+                  "itemSpacing": 12,
+                  "lineSpacing": 16,
+                  "widgetPadding": {},
+                  "containerStyle": {
+                    "containerPadding": {
+                      "left": 16,
+                      "right": 16,
+                      "bottom": 16
+                    }
+                  },
+                  "scrollBar": {}
+                },
+                "stackedDetails": {
+                  "favRestaurantInfoCard": {
+                    "restaurants": [
+                      {
+                        "info": {
+                          "id": "25980",
+                          "name": "Anandam",
+                          "cloudinaryImageId": "kf8d7x5ecpak40h7j3c4",
+                          "locality": "Gachibowli",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹250 for two",
+                          "cuisines": ["North Indian", "Rajasthani", "Jain"],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "25980",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 8100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 8100
+                          },
+                          "parentId": "2649",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "10K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8593152~p=1~eid=0000018b-7c3a-fe5a-2955-389e00d40153~srvts=1698596322906~97790",
+                          "sla": {
+                            "deliveryTime": 28,
+                            "lastMileTravel": 7.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "28 mins",
+                            "lastMileTravelString": "7.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {},
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {},
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Anandam, serving North Indian, Rajasthani, Jain, will be delivered in 28 min, costs ₹250 for two, 15% off above ₹700 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "15% OFF",
+                            "subHeader": "ABOVE ₹700",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=25980",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "1120",
+                          "name": "Sardarji's Chat and More",
+                          "cloudinaryImageId": "fgmavnjxazoqq9jf1fmh",
+                          "locality": "Gachibowli",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "North Indian",
+                            "Fast Food",
+                            "Chaat",
+                            "Punjabi"
+                          ],
+                          "avgRating": 4.2,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "1120",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 7300
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 7300
+                          },
+                          "parentId": "21713",
+                          "avgRatingString": "4.2",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 31,
+                            "lastMileTravel": 6.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "31 mins",
+                            "lastMileTravelString": "6.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:45:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "textExtendedBadges": [
+                              {
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "shortDescription": "options available",
+                                "fontColor": "#7E808C"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {},
+                              "textExtendedBadges": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "shortDescription": "options available",
+                                      "fontColor": "#7E808C",
+                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                      "description": ""
+                                    }
+                                  }
+                                ]
+                              },
+                              "textBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Sardarji's Chat and More, serving North Indian, Fast Food, Chaat and more, will be delivered in 31 min, costs ₹200 for two, 15% off above ₹1000 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "15% OFF",
+                            "subHeader": "ABOVE ₹1000",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=1120",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "42473",
+                          "name": "Punjabi Paratha Palace",
+                          "cloudinaryImageId": "qiph0m7z9wotgwlhls8m",
+                          "locality": "Police  colony road",
+                          "areaName": "Police colony road",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": ["North Indian"],
+                          "avgRating": 3.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "42473",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 10100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 10100
+                          },
+                          "parentId": "384462",
+                          "avgRatingString": "3.7",
+                          "totalRatingsString": "5K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8634642~p=2~eid=0000018b-7c3a-fe5a-2955-389f00d4020f~srvts=1698596322906~97790",
+                          "sla": {
+                            "deliveryTime": 39,
+                            "lastMileTravel": 10,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "39 mins",
+                            "lastMileTravelString": "10.0 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 23:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {},
+                              "textBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Punjabi Paratha Palace, serving North Indian, will be delivered in 39 min, costs ₹200 for two, 10% off above ₹500 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "10% OFF",
+                            "subHeader": "ABOVE ₹500",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=42473",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "637525",
+                          "name": "Madhuram Tiffins",
+                          "cloudinaryImageId": "d1209d60cda85758d702c7e0a60a2790",
+                          "locality": "TNGO'S colony",
+                          "areaName": "Nanakramguda",
+                          "costForTwo": "₹150 for two",
+                          "cuisines": ["South Indian"],
+                          "avgRating": 4.3,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "637525",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 4500
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 4500
+                          },
+                          "parentId": "341225",
+                          "avgRatingString": "4.3",
+                          "totalRatingsString": "500+",
+                          "sla": {
+                            "deliveryTime": 21,
+                            "lastMileTravel": 3.9,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "21 mins",
+                            "lastMileTravelString": "3.9 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Madhuram Tiffins, serving South Indian, will be delivered in 21 min, costs ₹150 for two, 40% off above ₹550 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "40% OFF",
+                            "subHeader": "ABOVE ₹550",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=637525",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "29291",
+                          "name": "Kesariya's Sweets and Chaat ",
+                          "cloudinaryImageId": "mmcrsnbblfeo27k0pg4r",
+                          "locality": "Gachibowli Miyapur Rd",
+                          "areaName": "Shilpa Hills",
+                          "costForTwo": "₹200 for two",
+                          "cuisines": [
+                            "Sweets",
+                            "North Indian",
+                            "Biryani",
+                            "Desserts",
+                            "Chaat"
+                          ],
+                          "avgRating": 4,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "29291",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 11600
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 11600
+                          },
+                          "parentId": "18978",
+                          "avgRatingString": "4.0",
+                          "totalRatingsString": "10K+",
+                          "promoted": true,
+                          "adTrackingId": "cid=8634971~p=4~eid=0000018b-7c3a-fe5a-2955-38a100d40428~srvts=1698596322906~97790",
+                          "sla": {
+                            "deliveryTime": 36,
+                            "lastMileTravel": 10.1,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "36 mins",
+                            "lastMileTravelString": "10.1 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-29 22:30:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "textBased": {},
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Kesariya's Sweets and Chaat , serving Sweets, North Indian, Biryani and more, will be delivered in 36 min, costs ₹200 for two, 10% off above ₹600 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "10% OFF",
+                            "subHeader": "ABOVE ₹600",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=29291",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      },
+                      {
+                        "info": {
+                          "id": "43768",
+                          "name": "Hitex Santosh Family Dhaba",
+                          "cloudinaryImageId": "mzqm48vnexvzdpuvkvnk",
+                          "locality": "Anjaiah Nagar",
+                          "areaName": "Gachibowli",
+                          "costForTwo": "₹300 for two",
+                          "cuisines": ["North Indian"],
+                          "avgRating": 3.7,
+                          "veg": true,
+                          "feeDetails": {
+                            "restaurantId": "43768",
+                            "fees": [
+                              {
+                                "name": "BASE_DISTANCE",
+                                "fee": 9100
+                              },
+                              {
+                                "name": "BASE_TIME"
+                              },
+                              {
+                                "name": "ANCILLARY_SURGE_FEE"
+                              }
+                            ],
+                            "totalFee": 9100
+                          },
+                          "parentId": "19614",
+                          "avgRatingString": "3.7",
+                          "totalRatingsString": "10K+",
+                          "sla": {
+                            "deliveryTime": 34,
+                            "lastMileTravel": 8.3,
+                            "serviceability": "SERVICEABLE",
+                            "slaString": "34 mins",
+                            "lastMileTravelString": "8.3 km",
+                            "iconType": "ICON_TYPE_EMPTY"
+                          },
+                          "availability": {
+                            "nextCloseTime": "2023-10-30 02:00:00",
+                            "opened": true
+                          },
+                          "badges": {
+                            "imageBadges": [
+                              {
+                                "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                "description": "pureveg"
+                              }
+                            ]
+                          },
+                          "isOpen": true,
+                          "type": "F",
+                          "badgesV2": {
+                            "entityBadges": {
+                              "imageBased": {
+                                "badgeObject": [
+                                  {
+                                    "attributes": {
+                                      "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                      "description": "pureveg"
+                                    }
+                                  }
+                                ]
+                              },
+                              "textExtendedBadges": {},
+                              "textBased": {}
+                            }
+                          },
+                          "accessibility": {
+                            "altText": "Hitex Santosh Family Dhaba, serving North Indian, will be delivered in 34 min, costs ₹300 for two, 20% off above ₹700 for this restaurant",
+                            "altTextCta": "open"
+                          },
+                          "aggregatedDiscountInfoV3": {
+                            "header": "20% OFF",
+                            "subHeader": "ABOVE ₹700",
+                            "discountTag": "FLAT DEAL"
+                          },
+                          "differentiatedUi": {
+                            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                            "differentiatedUiMediaDetails": {
+                              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                              "lottie": {},
+                              "video": {}
+                            }
+                          },
+                          "reviewsSummary": {},
+                          "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                          "restaurantOfferPresentationInfo": {}
+                        },
+                        "analytics": {},
+                        "cta": {
+                          "link": "swiggy://menu?restaurant_id=43768",
+                          "text": "RESTAURANT_MENU",
+                          "type": "DEEPLINK"
+                        }
+                      }
+                    ],
+                    "theme": "Restaurant_Group_Worldcup2_Flexipage_OffersonPB_StackeComponent",
+                    "widgetType": "WIDGET_TYPE_FAVOURITES",
+                    "style": {
+                      "width": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 0.33333334,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_CONTAINER_WIDTH"
+                      },
+                      "height": {
+                        "type": "TYPE_RELATIVE",
+                        "value": 1.166,
+                        "reference": "RELATIVE_DIMENSION_REFERENCE_WIDTH"
+                      },
+                      "layoutAlignment": "LAYOUT_ALIGNMENT_LEFT"
+                    },
+                    "collectionId": "97790"
+                  }
+                },
+                "ctaDetail": {
+                  "ctaSeparatorConfig": {
+                    "top": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16
+                      }
+                    },
+                    "bottom": {
+                      "color": "#1A02060C",
+                      "height": 1,
+                      "padding": {
+                        "left": 16,
+                        "right": 16,
+                        "bottom": 16
+                      }
+                    },
+                    "left": {},
+                    "right": {}
+                  },
+                  "textCta": {
+                    "link": "swiggy://collectionV2?collection_id=97790",
+                    "text": "See More Restaurants",
+                    "type": "DEEPLINK"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.InlineViewFilterSortWidget",
+            "sortConfigs": [
+              {
+                "key": "relevance",
+                "title": "Relevance (Default)",
+                "selected": true,
+                "defaultSelection": true
+              },
+              {
+                "key": "deliveryTimeAsc",
+                "title": "Delivery Time"
+              },
+              {
+                "key": "modelBasedRatingDesc",
+                "title": "Rating"
+              },
+              {
+                "key": "costForTwoAsc",
+                "title": "Cost: Low to High"
+              },
+              {
+                "key": "costForTwoDesc",
+                "title": "Cost: High to Low"
+              }
+            ],
+            "restaurantCount": 83,
+            "facetList": [
+              {
+                "label": "Veg/Non-Veg",
+                "id": "isVeg",
+                "selection": "SELECT_TYPE_MULTISELECT",
+                "facetInfo": [
+                  {
+                    "label": "Pure Veg",
+                    "id": "isVegfacetquery3",
+                    "analytics": {},
+                    "openFilter": true
+                  }
+                ],
+                "viewType": "VIEW_TYPE_HALF_CARD",
+                "subLabel": "Filter by",
+                "openFilter": true
+              },
+              {
+                "label": "Ratings",
+                "id": "rating",
+                "selection": "SELECT_TYPE_MULTISELECT",
+                "facetInfo": [
+                  {
+                    "label": "Ratings 3.5+",
+                    "id": "ratingfacetquery3",
+                    "analytics": {},
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Ratings 4.0+",
+                    "id": "ratingfacetquery4",
+                    "analytics": {},
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Ratings 4.5+",
+                    "id": "ratingfacetquery5",
+                    "analytics": {},
+                    "openFilter": true
+                  }
+                ],
+                "viewType": "VIEW_TYPE_HALF_CARD",
+                "subLabel": "Filter by",
+                "openFilter": true
+              },
+              {
+                "label": "Delivery Time",
+                "id": "deliveryTime",
+                "selection": "SELECT_TYPE_MULTISELECT",
+                "facetInfo": [
+                  {
+                    "label": "Less than 30 mins",
+                    "id": "deliveryTimefacetquery2",
+                    "analytics": {},
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Less than 45 mins",
+                    "id": "deliveryTimefacetquery3",
+                    "analytics": {},
+                    "openFilter": true
+                  }
+                ],
+                "viewType": "VIEW_TYPE_HALF_CARD",
+                "subLabel": "Filter by",
+                "openFilter": true
+              },
+              {
+                "label": "Cost For Two",
+                "id": "costForTwo",
+                "selection": "SELECT_TYPE_MULTISELECT",
+                "facetInfo": [
+                  {
+                    "label": "Less than Rs. 300",
+                    "id": "costForTwofacetquery3",
+                    "analytics": {},
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Rs.300 - Rs.600",
+                    "id": "costForTwofacetquery4",
+                    "analytics": {},
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Greater than Rs. 600",
+                    "id": "costForTwofacetquery5",
+                    "analytics": {},
+                    "openFilter": true
+                  }
+                ],
+                "viewType": "VIEW_TYPE_HALF_CARD",
+                "subLabel": "Filter by",
+                "openFilter": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "widgetPadding": {
+                "left": 16,
+                "top": 20,
+                "right": 16,
+                "bottom": 16
+              },
+              "scrollBar": {},
+              "widgetTheme": {
+                "defaultMode": {
+                  "backgroundColour": "#FFFFFF",
+                  "theme": "THEME_TYPE_LIGHT"
+                },
+                "darkMode": {
+                  "backgroundColour": "#1B3028",
+                  "theme": "THEME_TYPE_DARK"
+                }
+              }
+            },
+            "id": "restaurantCountWidget_Worldcup2",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                "text": "Restaurants to explore",
+                "headerStyling": {
+                  "textSize": 15,
+                  "textColor": "text_color_highest_emphasis",
+                  "textFontName": "FONT_NAME_HEADER_H5",
+                  "maxLines": 1
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "472258",
+              "name": "New Santosh Family Dhaba",
+              "cloudinaryImageId": "icpj8qmocimvboipbjoa",
+              "locality": "Nallagandla",
+              "areaName": "Lingampally",
+              "costForTwo": "₹200 for two",
+              "cuisines": ["North Indian", "Chinese"],
+              "avgRating": 4,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "472258",
+                "fees": [
+                  {
+                    "name": "BASE_DISTANCE",
+                    "fee": 8100
+                  },
+                  {
+                    "name": "BASE_TIME"
+                  },
+                  {
+                    "name": "ANCILLARY_SURGE_FEE"
+                  }
+                ],
+                "totalFee": 8100
+              },
+              "parentId": "5022",
+              "avgRatingString": "4.0",
+              "totalRatingsString": "1K+",
+              "promoted": true,
+              "adTrackingId": "cid=8597405~p=1~eid=0000018b-7c3a-fe65-295c-a28900b50144~srvts=1698596322917~97262",
+              "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 7.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "31 mins",
+                "lastMileTravelString": "7.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2023-10-29 23:30:00",
+                "opened": true
+              },
+              "badges": {
+                "imageBadges": [
+                  {
+                    "imageId": "v1695133679/badges/Pure_Veg111.png",
+                    "description": "pureveg"
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "textBased": {},
+                  "imageBased": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "description": "pureveg",
+                          "imageId": "v1695133679/badges/Pure_Veg111.png"
+                        }
+                      }
+                    ]
+                  },
+                  "textExtendedBadges": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "subHeader": "UPTO ₹100"
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=472258",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "1120",
+              "name": "Sardarji's Chat and More",
+              "cloudinaryImageId": "fgmavnjxazoqq9jf1fmh",
+              "locality": "Gachibowli",
+              "areaName": "Gachibowli",
+              "costForTwo": "₹200 for two",
+              "cuisines": ["North Indian", "Fast Food", "Chaat", "Punjabi"],
+              "avgRating": 4.2,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "1120",
+                "fees": [
+                  {
+                    "name": "BASE_DISTANCE",
+                    "fee": 7300
+                  },
+                  {
+                    "name": "BASE_TIME"
+                  },
+                  {
+                    "name": "ANCILLARY_SURGE_FEE"
+                  }
+                ],
+                "totalFee": 7300
+              },
+              "parentId": "21713",
+              "avgRatingString": "4.2",
+              "totalRatingsString": "10K+",
+              "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 6.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "31 mins",
+                "lastMileTravelString": "6.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2023-10-29 22:45:00",
+                "opened": true
+              },
+              "badges": {
+                "textExtendedBadges": [
+                  {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                  }
+                ]
+              },
+              "isOpen": true,
+              "type": "F",
+              "badgesV2": {
+                "entityBadges": {
+                  "imageBased": {},
+                  "textExtendedBadges": {
+                    "badgeObject": [
+                      {
+                        "attributes": {
+                          "iconId": "guiltfree/GF_Logo_android_3x",
+                          "description": "",
+                          "shortDescription": "options available",
+                          "fontColor": "#7E808C"
+                        }
+                      }
+                    ]
+                  },
+                  "textBased": {}
+                }
+              },
+              "aggregatedDiscountInfoV3": {
+                "header": "20% OFF",
+                "subHeader": "UPTO ₹50"
+              },
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+              },
+              "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                  "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                  "lottie": {},
+                  "video": {}
+                }
+              },
+              "reviewsSummary": {},
+              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+              "restaurantOfferPresentationInfo": {}
+            },
+            "analytics": {},
+            "cta": {
+              "link": "swiggy://menu?restaurant_id=1120",
+              "text": "RESTAURANT_MENU",
+              "type": "DEEPLINK"
+            },
+            "widgetId": "collectionV5RestaurantListWidget"
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "nextFetch": 3
+  },
+  "tid": "97244c64-8ead-43dc-bf5f-202c359ca5d7",
+  "sid": "a5x40b06-a7b0-47ae-bb53-d7c5e588b7d7",
+  "deviceId": "3d192e70-bacc-ac89-d025-c97d5c12075b",
+  "csrfToken": "sFeACa6iHem8-F5xqjH2Ts9zLhADDzhB9iQQmc6k"
+}
